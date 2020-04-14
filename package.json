@@ -23,6 +23,6 @@
     "helmet": "3.16.0",
     "http-errors": "1.7.2",
     "morgan": "1.9.1",
-    "request": "2.88.0"
+    "request": "2.88.2"
   }
 }
